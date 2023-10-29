@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    <img src="https://telegra.ph/file/743e6d0b7fde680142715.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="[https://telegra.ph/file/4035f606654375c97f891.jpg]" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 
@@ -34,11 +34,11 @@
 
 <p align="center" class="d-flex justify-content-center align-items-center">
 
-  <a href="https://github.com/ArifzynXD">
+  <a href="https://github.com/AiciaxyviorMd]">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArifzynXD&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AiciaxviorMd&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArifzynXD&layout=compact&langs_count=8&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AiciaxyviorMd&layout=compact&langs_count=8&theme=omni"/>
 
   </a>
 
@@ -48,12 +48,12 @@
 
 <p align="center">
 
-<a href="https://www.instagram.com/arifzyn19">
+<a href="https://instagram.com/_aliciazyn?igshid=NzZlODBkYWE4Ng==">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
     </p>
     <p align="center">
 
-<a href="https://wm.me/62895347198105">
+<a href="https://wa.me/6288268142831">
 
 <img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/-whatsapp-E4405F?style=flat&logo=Whatsapp&logoColor=white"/></a>
     </p>
